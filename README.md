@@ -15,7 +15,7 @@ There are 3 histograms present: CPU, GPU, and then the difference between each i
 ### Understanding the structure of the histogram
 For each histogram, each row is divided into 5 buckets. The number preceding the ":" on the left of every row represents the starting bucket number for the respective row. At the bottom of each histogram shows the total distance, T.
 
-![image](https://github.com/YingJames/Spatial-Distribution-GPU-Implementation/assets/21976362/b5ab9f72-6f04-4544-b3e1-f36d3288b9b1)
+![image](https://github.com/YingJames/Spatial-Distribution-Parallel-Computing/assets/21976362/9234fd70-dd9b-4ed5-ba37-bbd11abac26e)
 
 ## Goals
 The overarching goal is to optimize the program to decrease calculation time, but I'm also interested in the idea of representing this data outside of the terminal output.
