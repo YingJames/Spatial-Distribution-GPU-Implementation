@@ -19,6 +19,6 @@ For each histogram, each row is divided into 5 buckets. The number preceding the
 
 ## Goals
 The overarching goal is to optimize the program to decrease calculation time, but I'm also interested in the idea of representing this data outside of the terminal output.
-[] clean up variable naming and comments
-[] take advantage of memory coalescing
-[] represent the histogram data in a more visual manner (possibly with a python library?)
+- [ ] clean up variable naming and comments
+- [ ] take advantage of memory coalescing
+- [ ] represent the histogram data in a more visual manner (possibly with a python library?)
